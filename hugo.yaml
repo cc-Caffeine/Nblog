@@ -1,0 +1,4 @@
+baseURL: https://formatiation.top
+locale: zh-cn
+title: summersay's blog
+theme: ["PaperMod"]
