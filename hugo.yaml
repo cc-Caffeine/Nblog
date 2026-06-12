@@ -2,3 +2,13 @@ baseURL: https://formatiation.top
 locale: zh-cn
 title: summersay's blog
 theme: ["PaperMod"]
+
+enableRobotsTXT: true
+
+params:
+  description: "一个什么都搞的纯清水向博客"
+  keywords:
+    - linux
+    - Programming
+    - Open Source
+    - Fix
