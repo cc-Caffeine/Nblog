@@ -1,9 +1,9 @@
 ---
 date: '2026-06-12T23:47:49+08:00'
 draft: false
-title: 'My First Post'
+title: 'Contact'
 ---
 
-This is **bold** text, and this is *emphasized* text.
+https://github.com/cc-Caffeine
 
-Visit the [Hugo](https://gohugo.io) website!
+Telegram @Casonzzz
