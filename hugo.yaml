@@ -1,5 +1,6 @@
 baseURL: https://formatiation.top
-locale: zh-cn
+defaultContentLanguage: zh-cn
+locale: zh-CN
 title: cc-caffeine's blog
 theme: ["PaperMod"]
 
